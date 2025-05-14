@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: AWS services, CI/CD pipelines, and Infrastructure as Code (IaC)
 - 👯 I’m looking to collaborate on: DevOps automation and cloud-native projects
 - 💬 Ask me about: AWS, Git, Linux, Docker, and CI/CD
-- 📫 How to reach me: dineshkumar@example.com
+- 📫 How to reach me: dineshkumarchintada@gmail.com
 - ⚡ Fun fact: I enjoy automating tasks and exploring cloud technologies!
 
 ## Skills
